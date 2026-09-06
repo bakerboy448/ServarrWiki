@@ -2,15 +2,15 @@
 title: Prowlarr Supported Indexers
 description: Indexers currently named as supported in the current nightly build of Prowlarr. Other indexers may be available via either Generic Newznab or Generic Torznab.
 published: true
-date: 2026-09-04T03:02:31.285223
+date: 2026-09-06T03:04:17.209613
 tags: prowlarr, indexers, reference
 editor: markdown
-dateCreated: 2026-09-04T03:02:31.285223
+dateCreated: 2026-09-06T03:04:17.209613
 ---
 
 - Supported Trackers and Indexers as of
-  - Prowlarr Build `2.6.3.5608` / [Commit: 765e24e3b3d7684f0f4a93694391d3188d14a4a4](https://github.com/Prowlarr/Prowlarr/commit/765e24e3b3d7684f0f4a93694391d3188d14a4a4)
-  - [Prowlarr Indexers Commit: 95697ef8430e84a05701ca433146440cb67943d4](https://github.com/Prowlarr/Indexers/commit/95697ef8430e84a05701ca433146440cb67943d4)
+  - Prowlarr Build `2.6.3.5608` / [Commit: 693c7c3b0e8ec6e9dd792c01e5fa1091260b3be1](https://github.com/Prowlarr/Prowlarr/commit/693c7c3b0e8ec6e9dd792c01e5fa1091260b3be1)
+  - [Prowlarr Indexers Commit: 5841e0e83359b05e285ae5e995156707f44c2ee8](https://github.com/Prowlarr/Indexers/commit/5841e0e83359b05e285ae5e995156707f44c2ee8)
 
 ---
 
@@ -284,6 +284,7 @@ dateCreated: 2026-09-04T03:02:31.285223
 |[cyanbug (大青虫)](https://cyanbug.net/){#cyanbug}|cyanbug (大青虫) is a CHINESE Private Torrent Tracker for MOVIES / TV / GENERAL|Chinese (China)|
 |[CyclingArchiveClub](https://cyclingarchive.club/){#cyclingarchiveclub}|CyclingArchiveClub is a Private tracker for Professional road and Cyclocross racing VIDEOS|English (United States)|
 |[CZTeam (API)](https://czteam.me/){#czteam-api}|CZTeam (CZT) is a ROMANIAN Private Torrent Tracker for MOVIES / TV / GENERAL|Romanian (Romania)|
+|[DanishBits (API)](https://danishbits.me/){#danishbits-api}|DanishBits is a Private Torrent Tracker for MOVIES / TV / GENERAL|English (United States)|
 |[Darkpeers (API)](https://darkpeers.org/){#darkpeers}|Darkpeers is a Private Torrent Tracker for MOVIES / TV / GENERAL|English (United States)|
 |[Das Unerwartete](https://dasunerwartete.biz/){#dasunerwartete}|Das Unerwartete (D-U) is a GERMAN Private Torrent Tracker for MOVIES / TV / GENERAL|German (Germany)|
 |[Das Unerwartete (API)](https://dasunerwartete.biz/){#dasunerwartete-api}|Das Unerwartete (D-U) is a GERMAN Private Torrent Tracker for MOVIES / TV / GENERAL\. This is the API version|German (Germany)|
